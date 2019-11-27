@@ -2,3 +2,10 @@
 14:24:29.516 [main] INFO  dev.console.App.App - Implementation Logback
 14:25:08.156 [main] INFO  dev.console.App.App - Bonjour Slf4J !
 14:25:08.166 [main] INFO  dev.console.App.App - Implementation Logback
+15:02:01.497 [main] INFO  dev.console.App.App - Bonjour Slf4J !
+15:02:01.498 [main] INFO  dev.console.App.App - Implementation Logback
+15:04:15.204 [main] INFO  dev.console.App.App - Bonjour Slf4J !
+15:04:15.206 [main] INFO  dev.console.App.App - Implementation Logback
+15:04:26.410 [main] INFO  dev.console.App.App - Bonjour Slf4J !
+15:04:26.411 [main] INFO  dev.console.App.App - Implementation Logback
+15:06:39.625 [main] DEBUG dev.service.AppService.AppService - Traitement 1 : param = test

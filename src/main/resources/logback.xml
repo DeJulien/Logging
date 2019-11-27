@@ -16,7 +16,7 @@
 		</encoder>
 	</appender>
 	
-	<logger name="dev.console" level="INFO">
+	<logger name="dev.service" level="DEBUG">
 		<appender-ref ref="FILE" />
 	</logger>
 	
