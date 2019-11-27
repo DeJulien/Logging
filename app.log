@@ -1,0 +1,4 @@
+14:24:29.516 [main] INFO  dev.console.App.App - Bonjour Slf4J !
+14:24:29.516 [main] INFO  dev.console.App.App - Implementation Logback
+14:25:08.156 [main] INFO  dev.console.App.App - Bonjour Slf4J !
+14:25:08.166 [main] INFO  dev.console.App.App - Implementation Logback
